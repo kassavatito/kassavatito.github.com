@@ -10,8 +10,6 @@ tag: jekyll
 {:toc}
 
 
-First POST build by Jekyll.
-
 
 hello				{#kassava}
 ------------------------
