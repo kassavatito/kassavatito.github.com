@@ -13,10 +13,10 @@ tag: jekyll
 First POST build by Jekyll.
 
 
-hello				{#레닌}
+hello				{#kassava}
 ------------------------
 
-![로고](D:/최재영/images)
+![로고](../img/i10931611477)
 
 
 
