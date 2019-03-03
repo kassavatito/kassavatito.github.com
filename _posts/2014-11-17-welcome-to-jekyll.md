@@ -16,7 +16,7 @@ First POST build by Jekyll.
 hello				{#kassava}
 ------------------------
 
-![로고](../img/i10931611477)
+![로고](../images/images[8])
 
 
 
