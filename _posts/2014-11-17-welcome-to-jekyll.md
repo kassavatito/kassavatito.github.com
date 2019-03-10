@@ -14,7 +14,7 @@ tag: jekyll
 hello				{#kassava}
 ------------------------
 
-![·Î°í](../images/images[8])
+![Alt text](../images/images[8])
 
 
 
