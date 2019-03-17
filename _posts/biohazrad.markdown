@@ -8,7 +8,8 @@ tag: interview
 **biohazrad**
 --------------------------------
 	+weapon
-		+ÇÚµå°Ç
+		+handgun
+		 	+357.
 		 	+
 		+shotgun
 		+
