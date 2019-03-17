@@ -8,7 +8,8 @@ tag: interview
 **biohazrad**
 --------------------------------
 	+weapon
-		+handgun
+		+ÇÚµå°Ç
+		 	+
 		+shotgun
 		+
 	+carizi
