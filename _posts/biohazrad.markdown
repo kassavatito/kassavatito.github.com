@@ -10,7 +10,7 @@ tag: interview
 	+weapon
 		+handgun
 		 	+357.
-		 	+
+		 	+한ㄱㄹ
 		+shotgun
 		+
 	+carizi
